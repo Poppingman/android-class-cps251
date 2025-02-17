@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">oero321</string>
+    <string name="button_2">Button 2</string>
+    <string name="this_is_my_layout_project">This is my layout project</string>
+    <string name="button_1">Button 1</string>
+    <string name="button_3">Button 3</string>
+    <string name="buttoon_2">Button 2</string>
+    <string name="checkbox_1">CheckBox 5</string>
+    <string name="checkboxx_1">CheckBox 6</string>
+    <string name="checkbox_2">CheckBox 4</string>
+    <string name="checkbox_3">CheckBox 3</string>
+    <string name="checkbox_4">CheckBox 1</string>
+    <string name="checkbox_5">CheckBox 2</string>
+    <string name="checkbox_32">checkbox 3</string>
+    <string name="smile">Smile</string>
+</resources>
