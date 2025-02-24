@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">oreo2</string>
+    <string name="calculate_tip">Calculate Tip</string>
+    <string name="Tip">Tip amounts will be display here</string>
+</resources>
